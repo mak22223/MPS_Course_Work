@@ -1277,6 +1277,9 @@ PartTypes=0
 
 [NetInfos]
 Net1=NetName=+12V|NetColor=clYellow
+Net2=NetName=+3V3|NetColor=$000099FF
+Net3=NetName=+5V|NetColor=clLime
+Net4=NetName=+5V_USB|NetColor=clBlue
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
