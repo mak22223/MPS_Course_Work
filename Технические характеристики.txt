@@ -1,0 +1,46 @@
+Поддерживаемые протоколы:
+CAN (ISO 15765-4)
+K-line / L-line (ISO 9141-2)
+SAE J1850 VPW & PWM
+Single Wire CAN (GMW3089)
+KWP2000
+J2564 
+CAN (ISO 11898, raw can)
+J1939 ???
+
+Ограничения, накладываемые J2534:
+Для ISO 9141:
+a. The maximum sink current to be supported by the interface is 100 mA.
+b. The range for all tests performed relative to ISO 7637-1 is –1.0 to +40.0 V.
+c. The minimum bus idle period before the interface shall transmit an address, shall be 300 ms.
+d. Support following baud rate with ±0.5% tolerance: 10400.
+e. Support following baud rates with ±2% tolerance: 9600, 9615, 10000, 10870, 11905, 12500, 13158,
+13889, 14706, and 15625.
+f. Support odd and even parity in addition to the default of no parity, with seven or eight data bits.
+Always one start bit and one stop bit.
+
+Для 14230-4 (KWP2000):
+a. The interface will handle the tester present message and 0x78 response code automatically (i.e.,
+without intervention from the PC).
+
+Для CAN ISO 11898:
+a. 250 and 500 kbps
+b. 11 and 29 bit identifiers
+c. Support for 80% ± 2% and 68.5% ± 2% bit sample point
+d. Pass-thru message interface (i.e., raw CAN frames with no flow control in the pass-thru device)
+
+Для CAN ISO 15765-4:
+a. 250 and 500 kbps
+b. 11 and 29 bit identifiers
+c. Support for 80% ± 2% bit sample point
+d. To maintain acceptable programming times, the transport layer flow control function, as defined in ISO
+15765-2, must be incorporated in the pass-thru device (see Appendix A). If the application does not
+use the ISO 15765-2 transport layer flow control functionality, the CAN protocol will allow for any
+custom transport layer.
+
+
+
+
+SAE J1962
+
+https://www.autoscaners.ru/articles/what-is-obd-ii/
