@@ -303,6 +303,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJQBKHGS
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for J2534 Adapter\Design Rule Check - Main_Board.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1278,8 +1282,8 @@ PartTypes=0
 [NetInfos]
 Net1=NetName=+12V|NetColor=clYellow
 Net2=NetName=+3V3|NetColor=$000099FF
-Net3=NetName=+5V|NetColor=clLime
-Net4=NetName=+5V_USB|NetColor=clBlue
+Net3=NetName=+5V|NetColor=$00A74E67
+Net4=NetName=+5V_USB|NetColor=$00001CA6
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
