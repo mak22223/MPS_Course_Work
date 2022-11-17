@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=C1_CAN_Interface1 NewDesignator=C1_CAN_Interface1_CAN_Interface2
+Change Component Designator: OldDesignator=C1_CAN_Interface2 NewDesignator=C1_CAN_Interface1_CAN_Interface1
+Change Component Designator: OldDesignator=U1_CAN_Interface1 NewDesignator=U1_CAN_Interface1_CAN_Interface2
+Change Component Designator: OldDesignator=U1_CAN_Interface2 NewDesignator=U1_CAN_Interface1_CAN_Interface1
+Add Pin To Net: Unknown Pin: Pin S1-1
+Add Pin To Net: Unknown Pin: Pin S1-2
+Add Pin To Net: Unknown Pin: Pin X1-3
+Change Class Name : Old Net Name=CAN_Interface1 New Net Name=CAN_Interface2
+Change Class Name : Old Net Name=CAN_Interface2 New Net Name=CAN_Interface1

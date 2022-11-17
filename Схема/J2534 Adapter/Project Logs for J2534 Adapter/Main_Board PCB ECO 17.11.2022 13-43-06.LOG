@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=JTCK_SWCLK Pin=J1-2
+Removed Pin From Net: NetName=JTMS_SWDIO Pin=J1-3
+Removed Pin From Net: NetName=JTDO_SWO Pin=J1-4
+Removed Pin From Net: NetName=JTDI Pin=J1-5
+Added Pin To Net: NetName=JTMS_SWDIO Pin=J1-2
+Added Pin To Net: NetName=JTCK_SWCLK Pin=J1-3
+Added Pin To Net: NetName=JTDI Pin=J1-4
+Added Pin To Net: NetName=JTDO_SWO Pin=J1-5
+Added Member To Class: ClassName=J1962 Member=Component J2 J1962

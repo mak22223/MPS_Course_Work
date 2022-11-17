@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=C1_CAN_Interface1 NewDesignator=C1_A
+Change Component Designator: OldDesignator=C1_CAN_Interface2 NewDesignator=C1_B
+Change Component Designator: OldDesignator=U1_CAN_Interface1 NewDesignator=U1_A
+Change Component Designator: OldDesignator=U1_CAN_Interface2 NewDesignator=U1_B

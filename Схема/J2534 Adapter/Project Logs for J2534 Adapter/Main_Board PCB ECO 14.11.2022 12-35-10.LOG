@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=NetC12_2 Pin=R9-2
+Removed Pin From Net: NetName=NetC19_1 Pin=R10-1
+Removed Pin From Net: NetName=+5V_USB Pin=U5-42
+Change Component Footprint: Designator=R9 Old Footprint=0805 SMD Res New Footprint=0603 SMD Res
+Change Component Footprint: Designator=R10 Old Footprint=0805 SMD Res New Footprint=0603 SMD Res
+Change Component Comment : Designator=R9 Old Comment=0 New Comment=33k
+Change Component Comment : Designator=R10 Old Comment=0 New Comment=82k
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Change component parameters: Designator = "R9" ("R9"); Footprint = "0805 SMD Res"; UniqueID = "\AUXVKKJO\KKDDLTMB" ("\AUXVKKJO\KKDDLTMB")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Viking-Tech-ARG03FTC3302_C217971.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "ARG03FTC3302"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10" ("R10"); Footprint = "0805 SMD Res"; UniqueID = "\AUXVKKJO\GGIPIGIX" ("\AUXVKKJO\GGIPIGIX")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603F8202TS_C2907072.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "FRC0603F8202TS"; VariantName = "[No Variations]"
+Added Component: Designator=R11(0603 SMD Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Added Component: Designator=R12(0603 SMD Res)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603P000-TS_C2907080.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "FRC0603P000 TS"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_USB Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-1
+Added Pin To Net: NetName=NetC12_2 Pin=R11-2
+Added Pin To Net: NetName=NetC19_1 Pin=R12-1
+Added Pin To Net: NetName=NetR11_1 Pin=R11-1
+Added Pin To Net: NetName=NetR11_1 Pin=U5-3
+Added Net: Name=NetR11_1
+Added Pin To Net: NetName=NetR12_2 Pin=R12-2
+Added Pin To Net: NetName=NetR12_2 Pin=U5-5
+Added Net: Name=NetR12_2
+Added Pin To Net: NetName=USB_VBUS Pin=R9-1
+Added Pin To Net: NetName=USB_VBUS Pin=R10-2
+Added Pin To Net: NetName=USB_VBUS Pin=U5-42
+Added Net: Name=USB_VBUS
+Added Member To Class: ClassName=Microcontroller Member=Component R15 10k
+Added Member To Class: ClassName=Microcontroller Member=Component R16 10k

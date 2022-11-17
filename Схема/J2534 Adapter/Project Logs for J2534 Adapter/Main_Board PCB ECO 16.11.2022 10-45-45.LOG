@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C19 Old Footprint=0805 SMD Cap New Footprint=0603 SMD CAP
+Change Component Footprint: Designator=C20 Old Footprint=0805 SMD Cap New Footprint=0603 SMD CAP
+Change component parameters: Designator = "C19" ("C19"); Footprint = "0805 SMD Cap"; UniqueID = "\AUXVKKJO\IFSZPPQW" ("\AUXVKKJO\IFSZPPQW")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CC0603JRNPO9BN100"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C20" ("C20"); Footprint = "0805 SMD Cap"; UniqueID = "\AUXVKKJO\LYDNLDRJ" ("\AUXVKKJO\LYDNLDRJ")
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CC0603JRNPO9BN100"; VariantName = "[No Variations]"
