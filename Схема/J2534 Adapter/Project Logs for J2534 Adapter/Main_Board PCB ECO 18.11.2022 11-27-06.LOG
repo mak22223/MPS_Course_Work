@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=MS_CAN_L Pin=J2-2
+Removed Pin From Net: NetName=MS_CAN_H Pin=J2-3
+Added Pin To Net: NetName=MS_CAN_H Pin=J2-2
+Added Pin To Net: NetName=MS_CAN_L Pin=J2-3
+Added Room: Name=CAN_Interface1
+Added Room: Name=CAN_Interface2
+Added Room: Name=Debug Interface
+Added Room: Name=J1962
+Added Room: Name=Microcontroller
+Added Room: Name=Power Supply
+Added Room: Name=USB

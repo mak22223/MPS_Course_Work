@@ -1,0 +1,67 @@
+Altium Designer Pick and Place Locations
+C:\Users\mak22\OneDrive\Рабочий стол\Работы\7 семестр\МПС\MPS_Course_Work\Схема\J2534 Adapter\Project Outputs for J2534 Adapter\Pick Place for Main_Board.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       18.11.22
+Time:       15:45
+Revision:   daf35ab0dbf0db5f77861cdef3c473ac734d6812
+Variant:    No variations
+Units used: mm
+
+Designator Layer       Center-X(mm) Center-Y(mm) Rotation 
+X2         TopLayer    8.8500mm     22.9000mm    90       
+X1         TopLayer    8.5000mm     27.7500mm    90       
+U1B        TopLayer    15.8650mm    37.3100mm    90       
+U1A        TopLayer    25.1350mm    37.3100mm    90       
+U5         TopLayer    20.7500mm    23.2500mm    0        
+U4         BottomLayer 33.9000mm    24.9000mm    180      
+U3         BottomLayer 25.6500mm    37.0000mm    180      
+U2         TopLayer    20.5000mm    11.3500mm    90       
+S1         TopLayer    8.5000mm     15.7000mm    270      
+R16        BottomLayer 23.0500mm    20.0000mm    180      
+R15        BottomLayer 18.7500mm    26.4000mm    180      
+R14        TopLayer    31.1500mm    12.2000mm    180      
+R13        TopLayer    31.1500mm    10.7000mm    180      
+R12        TopLayer    12.2500mm    25.0000mm    0        
+R11        TopLayer    12.2500mm    27.0000mm    180      
+R10        TopLayer    29.7500mm    21.5000mm    180      
+R9         TopLayer    29.7500mm    20.0000mm    0        
+R8         BottomLayer 18.7500mm    23.0000mm    180      
+R7         BottomLayer 18.7500mm    24.5000mm    0        
+R6         TopLayer    8.4500mm     11.8000mm    180      
+R5         BottomLayer 21.8500mm    38.0000mm    0        
+R4         BottomLayer 21.8500mm    36.5000mm    0        
+R3         BottomLayer 26.3500mm    34.4000mm    0        
+R2         TopLayer    27.6500mm    9.2000mm     180      
+R1         TopLayer    16.7500mm    9.2000mm     0        
+L1         BottomLayer 31.6000mm    33.1000mm    0        
+J3         TopLayer    20.5000mm    4.5750mm     0        
+J2         TopLayer    20.5000mm    43.9000mm    90       
+J1         TopLayer    38.5000mm    27.7300mm    180      
+D4         TopLayer    27.6500mm    12.2000mm    0        
+D3         TopLayer    27.6500mm    10.7000mm    0        
+D2         TopLayer    11.9500mm    11.8000mm    180      
+D1         BottomLayer 27.2000mm    16.7300mm    90       
+C1B        TopLayer    21.5000mm    37.3100mm    90       
+C1A        TopLayer    12.2000mm    37.3100mm    90       
+C20        TopLayer    5.2500mm     21.8000mm    180      
+C19        TopLayer    5.2500mm     24.0000mm    180      
+C18        TopLayer    10.6000mm    15.6500mm    270      
+C17        TopLayer    30.4000mm    26.4500mm    90       
+C16        TopLayer    17.7500mm    15.8000mm    0        
+C15        TopLayer    16.7500mm    30.7000mm    180      
+C14        TopLayer    24.2500mm    15.8000mm    0        
+C13        TopLayer    5.2500mm     26.5000mm    0        
+C12        TopLayer    5.2500mm     29.0000mm    0        
+C11        TopLayer    28.9000mm    26.4500mm    90       
+C10        TopLayer    11.7000mm    21.2500mm    270      
+C9         TopLayer    13.2000mm    21.2500mm    270      
+C8         BottomLayer 33.7500mm    21.8000mm    180      
+C7         BottomLayer 34.7500mm    27.7000mm    180      
+C6         BottomLayer 35.5000mm    30.3500mm    90       
+C5         BottomLayer 35.5000mm    34.4500mm    270      
+C4         BottomLayer 25.7500mm    39.5000mm    0        
+C3         BottomLayer 31.4500mm    36.0000mm    180      
+C2         BottomLayer 31.4500mm    37.5000mm    180      
