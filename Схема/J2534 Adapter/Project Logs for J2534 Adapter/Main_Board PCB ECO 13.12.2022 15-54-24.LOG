@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=NetR11_1 Pin=U5-4
+Added Pin To Net: NetName=NetR12_2 Pin=U5-6
+Added Room: Name=CAN_Interface1
+Added Room: Name=CAN_Interface2
+Added Room: Name=Debug Interface
+Added Room: Name=J1962
+Added Room: Name=Microcontroller
+Added Room: Name=Power Supply
+Added Room: Name=USB
