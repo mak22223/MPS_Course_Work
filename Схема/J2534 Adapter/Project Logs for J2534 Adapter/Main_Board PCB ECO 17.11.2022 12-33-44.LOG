@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=CAN1_TXE Pin=U5-29
-Removed Pin From Net: NetName=CAN2_TXE Pin=U5-59
-Added Pin To Net: NetName=CAN2_TXE Pin=U5-56
-Added Pin To Net: NetName=CAN1_TXE Pin=U5-59
